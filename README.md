@@ -14,7 +14,7 @@ curl --location --request POST 'https://vhuerta-node-challenge.herokuapp.com/met
 	"value": 10
 }'
 ```
-300
+
 Response (200):
 ```javascript
 {}
